@@ -6,7 +6,7 @@ LangChain is a Python project that utilizes the LangChain library for natural la
 
 ## Streamlit
 
-I use `Streamlit` to create user interface, allowing them to enter questions and see the answer
+I used `Streamlit` to create user interface, allowing them to enter questions and see the answer
 
 ## Configuration
 
